@@ -1,2 +1,2 @@
 # IoT-Home-System
-IoT smart home automation.
+IoT smart home automation using nodemcu.
